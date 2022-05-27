@@ -1,0 +1,12 @@
+{
+  "name": "js-sf-cli-fs",
+  "version": "1.0.0",
+  "description": "reading salesforce data-csv using cli interface of node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "andrew circelli",
+  "license": "ISC"
+}
